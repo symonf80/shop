@@ -1,2 +1,2 @@
 # Задача Магазин
-## (SOLID)
+##  (Magics, DRY, SOLID)
